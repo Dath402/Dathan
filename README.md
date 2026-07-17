@@ -42,11 +42,11 @@ I'm a **Final Year Computer Science Engineering student** passionate about softw
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dath402&show_icons=true&theme=github_dark&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dath402&show_icons=true&theme=github_dark&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dath402&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dath402&layout=compact&theme=github_dark" />
 </p>
 
 ---
