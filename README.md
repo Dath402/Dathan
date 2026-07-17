@@ -54,7 +54,7 @@ I'm a **Final Year Computer Science Engineering student** passionate about softw
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Dath402&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dath402&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -64,7 +64,7 @@ I'm a **Final Year Computer Science Engineering student** passionate about softw
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dath402&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dath402&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
