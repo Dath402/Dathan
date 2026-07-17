@@ -42,30 +42,23 @@ I'm a **Final Year Computer Science Engineering student** passionate about softw
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-ruby.vercel.app/api?username=dath402&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dath402&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-ruby.vercel.app/api/top-langs/?username=dath402&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dath402&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dath402&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com/?user=dath402&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dath402&theme=tokyonight&no-frame=true&margin-w=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=dath402&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -83,7 +76,7 @@ I'm a **Final Year Computer Science Engineering student** passionate about softw
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/dath402">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
