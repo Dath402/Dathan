@@ -42,11 +42,11 @@ I'm a **Final Year Computer Science Engineering student** passionate about softw
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-ruby.vercel.app/api?username=dath402&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-ruby.vercel.app/api?username=Dath402&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-ruby.vercel.app/api/top-langs/?username=dath402&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-ruby.vercel.app/api/top-langs/?username=Dath402&layout=compact&theme=tokyonight" />
 </p>
 
 
@@ -54,7 +54,7 @@ I'm a **Final Year Computer Science Engineering student** passionate about softw
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Dath402&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -64,7 +64,7 @@ I'm a **Final Year Computer Science Engineering student** passionate about softw
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dath402&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
