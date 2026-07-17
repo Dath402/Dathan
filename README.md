@@ -42,12 +42,13 @@ I'm a **Final Year Computer Science Engineering student** passionate about softw
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dath402&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-ruby.vercel.app/api?username=dath402&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dath402&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-ruby.vercel.app/api/top-langs/?username=dath402&layout=compact&theme=tokyonight" />
 </p>
+
 
 ## 🔥 GitHub Streak
 
